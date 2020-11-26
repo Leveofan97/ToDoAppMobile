@@ -1,0 +1,16 @@
+C:\Projects\MyToDoMobile\MyToDoMobile\MyToDoMobile\bin\Release\netstandard2.0\MyToDoMobile.deps.json
+C:\Projects\MyToDoMobile\MyToDoMobile\MyToDoMobile\bin\Release\netstandard2.0\MyToDoMobile.dll
+C:\Projects\MyToDoMobile\MyToDoMobile\MyToDoMobile\bin\Release\netstandard2.0\ref\MyToDoMobile.dll
+C:\Projects\MyToDoMobile\MyToDoMobile\MyToDoMobile\bin\Release\netstandard2.0\MyToDoMobile.pdb
+C:\Projects\MyToDoMobile\MyToDoMobile\MyToDoMobile\obj\Release\netstandard2.0\MyToDoMobile.csprojAssemblyReference.cache
+C:\Projects\MyToDoMobile\MyToDoMobile\MyToDoMobile\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Projects\MyToDoMobile\MyToDoMobile\MyToDoMobile\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Projects\MyToDoMobile\MyToDoMobile\MyToDoMobile\obj\Release\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Projects\MyToDoMobile\MyToDoMobile\MyToDoMobile\obj\Release\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Projects\MyToDoMobile\MyToDoMobile\MyToDoMobile\obj\Release\netstandard2.0\MyToDoMobile.AssemblyInfoInputs.cache
+C:\Projects\MyToDoMobile\MyToDoMobile\MyToDoMobile\obj\Release\netstandard2.0\MyToDoMobile.AssemblyInfo.cs
+C:\Projects\MyToDoMobile\MyToDoMobile\MyToDoMobile\obj\Release\netstandard2.0\MyToDoMobile.csproj.CoreCompileInputs.cache
+C:\Projects\MyToDoMobile\MyToDoMobile\MyToDoMobile\obj\Release\netstandard2.0\XamlC.stamp
+C:\Projects\MyToDoMobile\MyToDoMobile\MyToDoMobile\obj\Release\netstandard2.0\MyToDoMobile.dll
+C:\Projects\MyToDoMobile\MyToDoMobile\MyToDoMobile\obj\Release\netstandard2.0\ref\MyToDoMobile.dll
+C:\Projects\MyToDoMobile\MyToDoMobile\MyToDoMobile\obj\Release\netstandard2.0\MyToDoMobile.pdb

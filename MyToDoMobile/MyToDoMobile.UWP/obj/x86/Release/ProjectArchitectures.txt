@@ -1,0 +1,1 @@
+C:\Projects\MyToDoMobile\MyToDoMobile\MyToDoMobile.UWP\MyToDoMobile.UWP.csproj;x86
